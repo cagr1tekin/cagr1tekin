@@ -50,5 +50,13 @@
 
 ---
 
+## 🎧 Spotify Now Playing
+
+🎧 Now Playing: Nothing playing
+
+## 📊 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/cagr1tekin?template=classic&config.timezone=Europe%2FIstanbul)
+
 > *"Keep learning. Keep building. Keep growing."*
 
