@@ -45,7 +45,7 @@ async function getLastPlayed(accessToken) {
 
 // README.md güncelle
 async function updateReadme(content) {
-  const readmePath = path.join(__dirname, "..", "README.md");
+  const readmePath = path.join(__dirname, "README.md");
   let readme = fs.readFileSync(readmePath, "utf-8");
 
   const regex = /🎧 Now Playing: .*/;
@@ -64,16 +64,14 @@ async function updateReadme(content) {
 // Git commit & push
 function commitAndPush() {
   try {
-    const repoRoot = path.join(__dirname, "..");
+    execSync("git config user.name 'github-actions[bot]'");
+    execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
+    execSync("git add README.md");
 
-    execSync("git config user.name 'github-actions[bot]'", { cwd: repoRoot });
-    execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'", { cwd: repoRoot });
-    execSync("git add README.md", { cwd: repoRoot });
-
-    const changes = execSync("git status --porcelain", { cwd: repoRoot }).toString().trim();
+    const changes = execSync("git status --porcelain").toString().trim();
     if (changes) {
-      execSync("git commit -m 'Update Spotify Now Playing'", { cwd: repoRoot });
-      execSync("git push origin HEAD:main", { cwd: repoRoot });
+      execSync("git commit -m 'Update Spotify Now Playing'");
+      execSync("git push origin HEAD:main");
       console.log("Changes committed and pushed.");
     } else {
       console.log("No changes detected, skipping commit.");
@@ -82,8 +80,6 @@ function commitAndPush() {
     console.error("Commit & push error:", err);
   }
 }
-
-
 
 // Main
 (async () => {
