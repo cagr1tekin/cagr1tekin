@@ -40,7 +40,6 @@ async function getLastPlayed(accessToken) {
   });
   return response.data.items[0];
 }
-
 async function updateReadme(songName, artistName, imageUrl, songUrl) {
   const readmePath = path.join(__dirname, "README.md");
   let readme = fs.readFileSync(readmePath, "utf-8");
@@ -50,27 +49,29 @@ async function updateReadme(songName, artistName, imageUrl, songUrl) {
 <div align="center" style="
   background-color: #181818;
   border: 2px solid #1DB954;
-  border-radius: 15px;
-  padding: 20px;
-  width: 350px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 30px;
+  width: 420px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
   color: white;
   font-family: Arial, sans-serif;
 ">
 
-  <img src="${imageUrl}" width="300" style="border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
+  <img src="${imageUrl}" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 20px; font-weight: bold; margin-bottom: 8px;">${songName}</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 15px;">${artistName}</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">${songName}</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">${artistName}</div>
 
   <a href="${songUrl}" target="_blank" style="
       display: inline-block;
-      padding: 10px 25px;
+      padding: 12px 30px;
       background-color: #1DB954;
-      border-radius: 25px;
+      border-radius: 30px;
       color: white;
       font-weight: bold;
+      font-size: 16px;
       text-decoration: none;
+      transition: background-color 0.3s ease;
   ">Listen on Spotify</a>
 
 </div>
