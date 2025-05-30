@@ -64,16 +64,16 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="60" style="margin-bottom: 20px;" />
 
-  <a href="{SPOTIFY_URL}" target="_blank">
-    <img src="{ALBUM_COVER}" width="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); margin-bottom: 20px;" />
+  <a href="https://open.spotify.com/track/41OiuarerS7iggIUFx6BXw" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b27335ba292a9e12a79e3e4470f0" width="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); margin-bottom: 20px;" />
   </a>
 
   <div style="color: #ffffff; font-weight: bold; font-size: 20px; margin-bottom: 5px;">
-    {SONG_NAME}
+    Kalakaldım
   </div>
 
   <div style="color: #b3b3b3; font-size: 16px;">
-    {ARTISTS}
+    Serkan Kaya
   </div>
 
 </div>
