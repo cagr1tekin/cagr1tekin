@@ -52,20 +52,23 @@
 
 ## 🎧 Spotify Now Playing
 
-<!-- SPOTIFY:START -->
-<div align="center">
+<div align="center" style="border:2px solid #1DB954;padding:15px;border-radius:15px;width:350px;background-color:#121212;">
 
-<a href="https://open.spotify.com/track/1rU3bvEogOTBhCIMGAjZfr" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ebaabe8724142c9289f7b3fa" width="300" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
+<a href="{SPOTIFY_URL}" target="_blank">
+  <img src="{ALBUM_COVER}" width="300" style="border-radius:10px;box-shadow:0px 4px 15px rgba(0,0,0,0.3);"/>
 </a>
 
-<br>
+<br><br>
 
-**Sebepsiz Gidenlere**  
-_Burak Bulut, Kurtuluş Kuş_
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="100"/>
+
+<br><br>
+
+<strong style="font-size: 18px; color: #ffffff;">{SONG_NAME}</strong><br>
+<em style="font-size: 16px; color: #b3b3b3;">{ARTISTS}</em>
 
 </div>
-<!-- SPOTIFY:END -->
+
 
 ## 📊 GitHub Metrics
 
