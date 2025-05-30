@@ -52,7 +52,7 @@
 
 ## 🎧 Spotify Now Playing
 
-🎧 Now Playing: Flowlarım Çok Zengin - Contra, İtaat
+🎧 Now Playing: Gülü Soldurmam - Aşkın'ın Şarkıları - Tuğçe Kandemir
 
 ## 📊 GitHub Metrics
 
