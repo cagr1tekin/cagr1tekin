@@ -44,5 +44,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cagr1tekin&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 > *"Keep learning. Keep building. Keep growing."*
 
