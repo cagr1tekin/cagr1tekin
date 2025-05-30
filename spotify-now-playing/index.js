@@ -1,7 +1,7 @@
-
 const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
+const { execSync } = require("child_process");
 
 const clientId = process.env.SPOTIFY_CLIENT_ID;
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
@@ -56,6 +56,19 @@ async function updateReadme(content) {
   console.log("README.md updated!");
 }
 
+function commitAndPush() {
+  try {
+    execSync("git config user.name 'github-actions[bot]'");
+    execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
+    execSync("git add README.md");
+    execSync("git commit -m 'Update Spotify Now Playing'");
+    execSync("git push");
+    console.log("Changes committed and pushed.");
+  } catch (err) {
+    console.error("Nothing to commit.");
+  }
+}
+
 (async () => {
   try {
     const accessToken = await getAccessToken();
@@ -74,6 +87,7 @@ async function updateReadme(content) {
 
     console.log("🎧 Now Playing:", songInfo);
     await updateReadme(songInfo);
+    commitAndPush();  // burada çağırıyoruz artık
   } catch (err) {
     console.error(err);
   }
