@@ -22,7 +22,6 @@ async function getAccessToken() {
   return response.data.access_token;
 }
 
-// Şu anda çalan şarkıyı al
 async function getCurrentlyPlaying(accessToken) {
   const response = await axios.get("https://api.spotify.com/v1/me/player/currently-playing", {
     headers: { Authorization: "Bearer " + accessToken },
@@ -35,7 +34,6 @@ async function getCurrentlyPlaying(accessToken) {
   return response.data;
 }
 
-// Son çalınan şarkıyı al
 async function getLastPlayed(accessToken) {
   const response = await axios.get("https://api.spotify.com/v1/me/player/recently-played?limit=1", {
     headers: { Authorization: "Bearer " + accessToken },
@@ -43,25 +41,27 @@ async function getLastPlayed(accessToken) {
   return response.data.items[0];
 }
 
-// README.md güncelle
-async function updateReadme(content) {
+async function updateReadme(content, imageUrl, songUrl) {
   const readmePath = path.join(__dirname, "README.md");
   let readme = fs.readFileSync(readmePath, "utf-8");
 
-  const regex = /🎧 Now Playing: .*/;
-  const newLine = `🎧 Now Playing: ${content}`;
+  const regex = /<!-- SPOTIFY:START -->(.*?)<!-- SPOTIFY:END -->/s;
+  const newSection = `<!-- SPOTIFY:START -->
+[![Now Playing](${imageUrl})](${songUrl})
+
+**${content}**
+<!-- SPOTIFY:END -->`;
 
   if (regex.test(readme)) {
-    readme = readme.replace(regex, newLine);
+    readme = readme.replace(regex, newSection);
   } else {
-    readme += "\n" + newLine;
+    readme += `\n${newSection}`;
   }
 
   fs.writeFileSync(readmePath, readme, "utf-8");
   console.log("README.md updated!");
 }
 
-// Git commit & push
 function commitAndPush() {
   try {
     execSync("git config user.name 'github-actions[bot]'");
@@ -81,25 +81,31 @@ function commitAndPush() {
   }
 }
 
-// Main
 (async () => {
   try {
     const accessToken = await getAccessToken();
     let current = await getCurrentlyPlaying(accessToken);
 
     let songInfo = "";
+    let imageUrl = "";
+    let songUrl = "";
+
     if (current && current.is_playing) {
       const song = current.item;
       songInfo = `${song.name} - ${song.artists.map(a => a.name).join(", ")}`;
+      imageUrl = song.album.images[0].url;
+      songUrl = song.external_urls.spotify;
     } else {
       console.log("Nothing is playing, fetching last played...");
       const recent = await getLastPlayed(accessToken);
       const song = recent.track;
       songInfo = `${song.name} - ${song.artists.map(a => a.name).join(", ")}`;
+      imageUrl = song.album.images[0].url;
+      songUrl = song.external_urls.spotify;
     }
 
     console.log("🎧 Now Playing:", songInfo);
-    await updateReadme(songInfo);
+    await updateReadme(songInfo, imageUrl, songUrl);
     commitAndPush();
   } catch (err) {
     console.error(err);

@@ -52,7 +52,9 @@
 
 ## 🎧 Spotify Now Playing
 
-🎧 Now Playing: Flowlarım Çok Zengin - Contra, İtaat
+<!-- SPOTIFY:START -->
+Henüz veri yüklenmedi.
+<!-- SPOTIFY:END -->
 
 ## 📊 GitHub Metrics
 
