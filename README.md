@@ -53,28 +53,31 @@
 
 <!-- SPOTIFY:START -->
 <div align="center" style="
-  width: 360px;
-  background-color: #121212;
-  border-radius: 20px;
+  width: 400px;
+  background-color: #181818;
   border: 2px solid #1DB954;
-  padding: 20px;
-  box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+  border-radius: 20px;
+  padding: 25px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+  font-family: Arial, sans-serif;
 ">
 
-  <div style="margin-bottom: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="60" style="margin-bottom: 20px;" />
+
+  <a href="{SPOTIFY_URL}" target="_blank">
+    <img src="{ALBUM_COVER}" width="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); margin-bottom: 20px;" />
+  </a>
+
+  <div style="color: #ffffff; font-weight: bold; font-size: 20px; margin-bottom: 5px;">
+    {SONG_NAME}
   </div>
 
-  <div style="margin-bottom: 20px;">
-    <a href="https://open.spotify.com/track/4D36ZNHfLE3joglWbDLn5X" target="_blank">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739a35f506293ec0f5456aa166" width="300" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
-    </a>
+  <div style="color: #b3b3b3; font-size: 16px;">
+    {ARTISTS}
   </div>
-
-  <div style="color: white; font-weight: bold; font-size: 20px;">Ah Ellerim Kırılaydı</div>
-  <div style="color: #b3b3b3; font-size: 16px; margin-top: 5px;">Tuğçe Kandemir</div>
 
 </div>
+
 <!-- SPOTIFY:END -->
 
 ---
