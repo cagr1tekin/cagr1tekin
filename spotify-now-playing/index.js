@@ -64,14 +64,16 @@ async function updateReadme(content) {
 // Git commit & push
 function commitAndPush() {
   try {
-    execSync("git config user.name 'github-actions[bot]'");
-    execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
-    execSync("git add ../README.md");
+    const repoRoot = path.join(__dirname, "..");
 
-    const changes = execSync("git status --porcelain").toString().trim();
+    execSync("git config user.name 'github-actions[bot]'", { cwd: repoRoot });
+    execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'", { cwd: repoRoot });
+    execSync("git add README.md", { cwd: repoRoot });
+
+    const changes = execSync("git status --porcelain", { cwd: repoRoot }).toString().trim();
     if (changes) {
-      execSync("git commit -m 'Update Spotify Now Playing'");
-      execSync("git push origin HEAD:main");
+      execSync("git commit -m 'Update Spotify Now Playing'", { cwd: repoRoot });
+      execSync("git push origin HEAD:main", { cwd: repoRoot });
       console.log("Changes committed and pushed.");
     } else {
       console.log("No changes detected, skipping commit.");
@@ -80,6 +82,7 @@ function commitAndPush() {
     console.error("Commit & push error:", err);
   }
 }
+
 
 
 // Main
