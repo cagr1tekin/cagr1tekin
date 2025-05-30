@@ -27,7 +27,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
 ---
 
 ## 🤝 Let's Connect
@@ -52,32 +51,6 @@
 
 ## 🎧 Spotify Now Playing
 
-<div align="center" style="border:2px solid #1DB954;padding:15px;border-radius:15px;width:350px;background-color:#121212;">
-
-<a href="{SPOTIFY_URL}" target="_blank">
-  <img src="{ALBUM_COVER}" width="300" style="border-radius:10px;box-shadow:0px 4px 15px rgba(0,0,0,0.3);"/>
-</a>
-
-<br><br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="100"/>
-
-<br><br>
-
-<strong style="font-size: 18px; color: #ffffff;">{SONG_NAME}</strong><br>
-<em style="font-size: 16px; color: #b3b3b3;">{ARTISTS}</em>
-
-</div>
-
-
-## 📊 GitHub Metrics
-
-![Metrics](https://github-readme-stats.vercel.app/api?username=cagr1tekin&show_icons=true&theme=tokyonight)
-
-
-> *"Keep learning. Keep building. Keep growing."*
-<!-- update -->
-
 <!-- SPOTIFY:START -->
 <div align="center" style="border:2px solid #1DB954;padding:15px;border-radius:15px;width:350px;background-color:#121212;">
 
@@ -96,3 +69,11 @@
 
 </div>
 <!-- SPOTIFY:END -->
+
+---
+
+## 📊 GitHub Metrics
+
+![Metrics](https://github-readme-stats.vercel.app/api?username=cagr1tekin&show_icons=true&theme=tokyonight)
+
+> *"Keep learning. Keep building. Keep growing."*
