@@ -3,14 +3,12 @@ const fs = require("fs");
 const path = require("path");
 const { execSync } = require("child_process");
 
-// 👉 Çalışma dizinini projenin köküne alıyoruz
-process.chdir(path.join(__dirname, ".."));
-
-// Spotify credentials
+// Spotify Credentials
 const clientId = process.env.SPOTIFY_CLIENT_ID;
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
 const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
 
+// Access Token Alma
 async function getAccessToken() {
   const params = new URLSearchParams();
   params.append("grant_type", "refresh_token");
@@ -24,6 +22,7 @@ async function getAccessToken() {
   return response.data.access_token;
 }
 
+// Şu anda çalan şarkıyı al
 async function getCurrentlyPlaying(accessToken) {
   const response = await axios.get("https://api.spotify.com/v1/me/player/currently-playing", {
     headers: { Authorization: "Bearer " + accessToken },
@@ -36,6 +35,7 @@ async function getCurrentlyPlaying(accessToken) {
   return response.data;
 }
 
+// Son çalınan şarkıyı al
 async function getLastPlayed(accessToken) {
   const response = await axios.get("https://api.spotify.com/v1/me/player/recently-played?limit=1", {
     headers: { Authorization: "Bearer " + accessToken },
@@ -43,8 +43,9 @@ async function getLastPlayed(accessToken) {
   return response.data.items[0];
 }
 
+// README.md güncelle
 async function updateReadme(content) {
-  const readmePath = path.join(process.cwd(), "README.md");
+  const readmePath = path.join(__dirname, "..", "README.md");
   let readme = fs.readFileSync(readmePath, "utf-8");
 
   const regex = /🎧 Now Playing: .*/;
@@ -60,6 +61,7 @@ async function updateReadme(content) {
   console.log("README.md updated!");
 }
 
+// Git commit & push
 function commitAndPush() {
   try {
     execSync("git config user.name 'github-actions[bot]'");
@@ -79,6 +81,7 @@ function commitAndPush() {
   }
 }
 
+// Main
 (async () => {
   try {
     const accessToken = await getAccessToken();

@@ -2,7 +2,7 @@ name: Spotify Now Playing
 
 on:
   schedule:
-    - cron: "*/10 * * * *"  # her 10 dakikada bir çalışır
+    - cron: "*/10 * * * *"  # her 10 dakikada bir
   workflow_dispatch:
 
 jobs:
@@ -19,9 +19,11 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: spotify-now-playing
 
       - name: Run Spotify updater
         run: node index.js
+        working-directory: spotify-now-playing
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
