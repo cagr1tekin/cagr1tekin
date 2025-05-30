@@ -1,26 +1,29 @@
-
-name: Spotify Now Playing (Self-Hosted)
+name: Spotify Now Playing
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/10 * * * *"  # her 10 dakikada bir çalışır
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
+
       - name: Install dependencies
         run: npm install
-        working-directory: ./spotify-now-playing
-      - name: Run Spotify Now Playing Updater
+        working-directory: spotify-now-playing
+
+      - name: Run Spotify updater
         run: node index.js
-        working-directory: ./spotify-now-playing
+        working-directory: spotify-now-playing
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}

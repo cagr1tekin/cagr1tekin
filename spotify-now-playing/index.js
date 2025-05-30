@@ -3,6 +3,10 @@ const fs = require("fs");
 const path = require("path");
 const { execSync } = require("child_process");
 
+// 👉 Çalışma dizinini projenin köküne alıyoruz
+process.chdir(path.join(__dirname, ".."));
+
+// Spotify credentials
 const clientId = process.env.SPOTIFY_CLIENT_ID;
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
 const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
@@ -40,7 +44,7 @@ async function getLastPlayed(accessToken) {
 }
 
 async function updateReadme(content) {
-  const readmePath = path.join(__dirname, "..", "README.md");  // 🔥 🔥 🔥
+  const readmePath = path.join(process.cwd(), "README.md");
   let readme = fs.readFileSync(readmePath, "utf-8");
 
   const regex = /🎧 Now Playing: .*/;
