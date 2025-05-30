@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update README with Spotify Now Playing
-        uses: lirantal/github-profile-spotify-now-playing@latest
+        uses: lirantal/github-profile-spotify-now-playing@v1.2.0
         with:
           clientId: ${{ secrets.SPOTIFY_CLIENT_ID }}
           clientSecret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
