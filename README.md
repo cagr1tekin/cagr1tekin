@@ -56,7 +56,8 @@
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://github-readme-metrics.vercel.app/api?username=cagr1tekin&theme=default)
+![Metrics](https://github-readme-stats.vercel.app/api?username=cagr1tekin&show_icons=true&theme=tokyonight)
+
 
 > *"Keep learning. Keep building. Keep growing."*
 
