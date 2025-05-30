@@ -1,5 +1,5 @@
 
-name: Spotify Now Playing Stable
+name: Spotify Now Playing (Self-Hosted)
 
 on:
   schedule:
@@ -10,10 +10,19 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Update README with Spotify Now Playing
-        uses: lirantal/github-profile-spotify-now-playing@v1.2.0
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          clientId: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          clientSecret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          refreshToken: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: 18
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./spotify-now-playing
+      - name: Run Spotify Now Playing Updater
+        run: node index.js
+        working-directory: ./spotify-now-playing
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
