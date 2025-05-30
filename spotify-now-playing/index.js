@@ -62,11 +62,9 @@ function commitAndPush() {
     execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
     execSync("git add README.md");
 
-    // Eğer değişiklik varsa commit yap
     const changes = execSync("git status --porcelain").toString().trim();
     if (changes) {
       execSync("git commit -m 'Update Spotify Now Playing'");
-      // Ana branch'e push
       execSync("git push origin HEAD:main");
       console.log("Changes committed and pushed.");
     } else {
@@ -76,7 +74,6 @@ function commitAndPush() {
     console.error("Commit & push error:", err);
   }
 }
-
 
 (async () => {
   try {
@@ -96,7 +93,7 @@ function commitAndPush() {
 
     console.log("🎧 Now Playing:", songInfo);
     await updateReadme(songInfo);
-    commitAndPush();  // burada çağırıyoruz artık
+    commitAndPush();
   } catch (err) {
     console.error(err);
   }
