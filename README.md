@@ -53,9 +53,18 @@
 ## 🎧 Spotify Now Playing
 
 <!-- SPOTIFY:START -->
-[![Now Playing](https://i.scdn.co/image/ab67616d0000b2731b84c4694d4e1688274a77e9)](https://open.spotify.com/track/3Og5QtLjZzFqLFsKnfZPzO)
+<div align="center">
 
-**Korkularım - Sura İskenderli**
+<a href="https://open.spotify.com/track/1rU3bvEogOTBhCIMGAjZfr" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ebaabe8724142c9289f7b3fa" width="300" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
+</a>
+
+<br>
+
+**Sebepsiz Gidenlere**  
+_Burak Bulut, Kurtuluş Kuş_
+
+</div>
 <!-- SPOTIFY:END -->
 
 ## 📊 GitHub Metrics
