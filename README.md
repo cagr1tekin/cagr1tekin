@@ -63,12 +63,12 @@
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2731d0d71d22c8d179577756208" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734e4d8aae0a58ae40c1067b44" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Senden Daha Güzel</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Duman</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Haydi Gel İçelim</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Yüksek Sadakat</div>
 
-  <a href="https://open.spotify.com/track/2sLAykCWyB1VA5hXDjU59T" target="_blank" style="
+  <a href="https://open.spotify.com/track/5iloeEnYSKxjR9GSOAgu4D" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
