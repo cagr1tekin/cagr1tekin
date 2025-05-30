@@ -53,7 +53,9 @@
 ## 🎧 Spotify Now Playing
 
 <!-- SPOTIFY:START -->
-Henüz veri yüklenmedi.
+[![Now Playing](https://i.scdn.co/image/ab67616d0000b27371e78eef2bbb52a8e20ccdbe)](https://open.spotify.com/track/0wbhPgfuKLCX8RMOS1FM3n)
+
+**Fersah - Canbay & Wolker**
 <!-- SPOTIFY:END -->
 
 ## 📊 GitHub Metrics
