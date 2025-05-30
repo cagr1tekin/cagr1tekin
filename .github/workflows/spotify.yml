@@ -1,69 +1,19 @@
-name: Spotify Now Playing Debug
+
+name: Spotify Now Playing Stable
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Install dependencies
-        run: npm install axios dotenv
-
-      - name: Debug Spotify Now Playing
-        env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-        run: |
-          node <<EOF
-          const axios = require("axios");
-
-          async function getAccessToken() {
-            const params = new URLSearchParams();
-            params.append("grant_type", "refresh_token");
-            params.append("refresh_token", process.env.SPOTIFY_REFRESH_TOKEN);
-
-            const resp = await axios.post("https://accounts.spotify.com/api/token", params, {
-              headers: {
-                Authorization: "Basic " + Buffer.from(process.env.SPOTIFY_CLIENT_ID + ":" + process.env.SPOTIFY_CLIENT_SECRET).toString("base64"),
-                "Content-Type": "application/x-www-form-urlencoded",
-              },
-            });
-
-            console.log("✅ Access token alındı");
-            return resp.data.access_token;
-          }
-
-          async function getCurrentlyPlaying(token) {
-            try {
-              const resp = await axios.get("https://api.spotify.com/v1/me/player/currently-playing", {
-                headers: { Authorization: "Bearer " + token },
-              });
-
-              console.log("🎧 Spotify Response:");
-              console.log(resp.data);
-
-              if (resp.status === 204 || !resp.data || !resp.data.is_playing) {
-                console.log("⚠ Spotify: Nothing playing");
-                return "Nothing playing";
-              }
-
-              const song = resp.data.item;
-              return `${song.name} — ${song.artists.map(a => a.name).join(", ")}`;
-            } catch (err) {
-              console.log("🚨 Spotify API Error:", err.response?.data || err.message);
-              return "API Error";
-            }
-          }
-
-          (async () => {
-            const token = await getAccessToken();
-            const song = await getCurrentlyPlaying(token);
-            console.log("🎯 Final Song Output:", song);
-          })();
-          EOF
+      - name: Update README with Spotify Now Playing
+        uses: lirantal/github-profile-spotify-now-playing@latest
+        with:
+          clientId: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          clientSecret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refreshToken: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
