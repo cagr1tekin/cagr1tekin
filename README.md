@@ -38,11 +38,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Visitors
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cagr1tekin&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagr1tekin&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagr1tekin&show_icons=true&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=cagr1tekin&color=blue&style=flat-square)
 
 ---
 
