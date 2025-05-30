@@ -54,8 +54,8 @@
 <!-- SPOTIFY:START -->
 <div align="center" style="border:2px solid #1DB954;padding:15px;border-radius:15px;width:350px;background-color:#121212;">
 
-<a href="https://open.spotify.com/track/3Ma9vXAVWZL4iSiGGnWaQV" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734d840a3db2d33af5754beba1" width="300" style="border-radius:10px;box-shadow:0px 4px 15px rgba(0,0,0,0.3);"/>
+<a href="https://open.spotify.com/track/5D3d3gyObvrjzDn65VF9XG" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b27387496ea88f38c5a505166cf7" width="300" style="border-radius:10px;box-shadow:0px 4px 15px rgba(0,0,0,0.3);"/>
 </a>
 
 <br><br>
@@ -64,8 +64,8 @@
 
 <br><br>
 
-<strong style="font-size: 18px; color: #ffffff;">yarım kalır</strong><br>
-<em style="font-size: 16px; color: #b3b3b3;">Sefo, Revart</em>
+<strong style="font-size: 18px; color: #ffffff;">Dizine Dursun</strong><br>
+<em style="font-size: 16px; color: #b3b3b3;">Yıldız Tilbe</em>
 
 </div>
 <!-- SPOTIFY:END -->
