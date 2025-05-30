@@ -1,12 +1,11 @@
 
 const axios = require("axios");
 const fs = require("fs");
+const path = require("path");
 
 const clientId = process.env.SPOTIFY_CLIENT_ID;
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
 const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
-const githubToken = process.env.GITHUB_TOKEN;
-const repo = process.env.GITHUB_REPOSITORY || "cagr1tekin/cagr1tekin";
 
 async function getAccessToken() {
   const params = new URLSearchParams();
@@ -14,9 +13,7 @@ async function getAccessToken() {
   params.append("refresh_token", refreshToken);
   const response = await axios.post("https://accounts.spotify.com/api/token", params, {
     headers: {
-      Authorization:
-        "Basic " +
-        Buffer.from(clientId + ":" + clientSecret).toString("base64"),
+      Authorization: "Basic " + Buffer.from(clientId + ":" + clientSecret).toString("base64"),
       "Content-Type": "application/x-www-form-urlencoded",
     },
   });
@@ -26,54 +23,57 @@ async function getAccessToken() {
 async function getCurrentlyPlaying(accessToken) {
   const response = await axios.get("https://api.spotify.com/v1/me/player/currently-playing", {
     headers: { Authorization: "Bearer " + accessToken },
+    validateStatus: () => true
   });
+
+  if (response.status === 204 || !response.data) {
+    return null;
+  }
   return response.data;
 }
 
-async function updateReadme(content) {
-  const readme = fs.readFileSync("README.md", "utf-8");
-  const updated = readme.replace(/🎧 Now Playing: .*/, `🎧 Now Playing: ${content}`);
-  fs.writeFileSync("README.md", updated);
-
-  await axios({
-    method: "put",
-    url: `https://api.github.com/repos/${repo}/contents/README.md`,
-    headers: {
-      Authorization: "Bearer " + githubToken,
-      "Content-Type": "application/json",
-    },
-    data: JSON.stringify({
-      message: "Update Spotify Now Playing",
-      content: Buffer.from(updated).toString("base64"),
-      sha: await getSha(),
-    }),
+async function getLastPlayed(accessToken) {
+  const response = await axios.get("https://api.spotify.com/v1/me/player/recently-played?limit=1", {
+    headers: { Authorization: "Bearer " + accessToken },
   });
+  return response.data.items[0];
 }
 
-async function getSha() {
-  const response = await axios({
-    method: "get",
-    url: `https://api.github.com/repos/${repo}/contents/README.md`,
-    headers: {
-      Authorization: "Bearer " + githubToken,
-    },
-  });
-  return response.data.sha;
+async function updateReadme(content) {
+  const readmePath = path.join(__dirname, "..", "README.md");
+  let readme = fs.readFileSync(readmePath, "utf-8");
+
+  const regex = /🎧 Now Playing: .*/;
+  const newLine = `🎧 Now Playing: ${content}`;
+
+  if (regex.test(readme)) {
+    readme = readme.replace(regex, newLine);
+  } else {
+    readme += "\n" + newLine;
+  }
+
+  fs.writeFileSync(readmePath, readme, "utf-8");
+  console.log("README.md updated!");
 }
 
 (async () => {
   try {
     const accessToken = await getAccessToken();
-    const current = await getCurrentlyPlaying(accessToken);
+    let current = await getCurrentlyPlaying(accessToken);
 
-    if (!current || !current.is_playing) {
-      console.log("Nothing is playing.");
-      return;
+    let songInfo = "";
+    if (current && current.is_playing) {
+      const song = current.item;
+      songInfo = `${song.name} - ${song.artists.map(a => a.name).join(", ")}`;
+    } else {
+      console.log("Nothing is playing, fetching last played...");
+      const recent = await getLastPlayed(accessToken);
+      const song = recent.track;
+      songInfo = `${song.name} - ${song.artists.map(a => a.name).join(", ")}`;
     }
 
-    const song = current.item;
-    const content = `${song.name} - ${song.artists.map(a => a.name).join(", ")}`;
-    console.log("🎧 Now Playing:", content);
+    console.log("🎧 Now Playing:", songInfo);
+    await updateReadme(songInfo);
   } catch (err) {
     console.error(err);
   }
