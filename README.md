@@ -53,9 +53,9 @@
 ## 🎧 Spotify Now Playing
 
 <!-- SPOTIFY:START -->
-[![Now Playing](https://i.scdn.co/image/ab67616d0000b27371e78eef2bbb52a8e20ccdbe)](https://open.spotify.com/track/0wbhPgfuKLCX8RMOS1FM3n)
+[![Now Playing](https://i.scdn.co/image/ab67616d0000b2731b84c4694d4e1688274a77e9)](https://open.spotify.com/track/3Og5QtLjZzFqLFsKnfZPzO)
 
-**Fersah - Canbay & Wolker**
+**Korkularım - Sura İskenderli**
 <!-- SPOTIFY:END -->
 
 ## 📊 GitHub Metrics
