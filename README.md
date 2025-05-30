@@ -52,20 +52,27 @@
 ## 🎧 Spotify Now Playing
 
 <!-- SPOTIFY:START -->
-<div align="center" style="border:2px solid #1DB954;padding:15px;border-radius:15px;width:350px;background-color:#121212;">
+<div align="center" style="
+  width: 360px;
+  background-color: #121212;
+  border-radius: 20px;
+  border: 2px solid #1DB954;
+  padding: 20px;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+">
 
-<a href="https://open.spotify.com/track/5D3d3gyObvrjzDn65VF9XG" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b27387496ea88f38c5a505166cf7" width="300" style="border-radius:10px;box-shadow:0px 4px 15px rgba(0,0,0,0.3);"/>
-</a>
+  <div style="margin-bottom: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="80">
+  </div>
 
-<br><br>
+  <div style="margin-bottom: 20px;">
+    <a href="https://open.spotify.com/track/4D36ZNHfLE3joglWbDLn5X" target="_blank">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739a35f506293ec0f5456aa166" width="300" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+    </a>
+  </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="100"/>
-
-<br><br>
-
-<strong style="font-size: 18px; color: #ffffff;">Dizine Dursun</strong><br>
-<em style="font-size: 16px; color: #b3b3b3;">Yıldız Tilbe</em>
+  <div style="color: white; font-weight: bold; font-size: 20px;">Ah Ellerim Kırılaydı</div>
+  <div style="color: #b3b3b3; font-size: 16px; margin-top: 5px;">Tuğçe Kandemir</div>
 
 </div>
 <!-- SPOTIFY:END -->
