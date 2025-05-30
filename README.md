@@ -63,12 +63,12 @@
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273f07e1c234bb1058d11b45309" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c3d902df0fa095aa87fd94db" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Haydi Gel İçelim</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Yüksek Sadakat</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Hele Bi Gel</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Pinhani</div>
 
-  <a href="https://open.spotify.com/track/6b0iQwJFAjQz8bwJbUIUQb" target="_blank" style="
+  <a href="https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
