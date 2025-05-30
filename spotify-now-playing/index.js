@@ -40,7 +40,7 @@ async function getLastPlayed(accessToken) {
 }
 
 async function updateReadme(content) {
-  const readmePath = path.join(process.cwd(), "README.md");
+  const readmePath = path.join(__dirname, "..", "README.md");  // 🔥 🔥 🔥
   let readme = fs.readFileSync(readmePath, "utf-8");
 
   const regex = /🎧 Now Playing: .*/;
