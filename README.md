@@ -55,27 +55,29 @@
 <div align="center" style="
   background-color: #181818;
   border: 2px solid #1DB954;
-  border-radius: 15px;
-  padding: 20px;
-  width: 350px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 30px;
+  width: 420px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
   color: white;
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2731d0d71d22c8d179577756208" width="300" style="border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731d0d71d22c8d179577756208" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 20px; font-weight: bold; margin-bottom: 8px;">Senden Daha Güzel</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 15px;">Duman</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Senden Daha Güzel</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Duman</div>
 
   <a href="https://open.spotify.com/track/2sLAykCWyB1VA5hXDjU59T" target="_blank" style="
       display: inline-block;
-      padding: 10px 25px;
+      padding: 12px 30px;
       background-color: #1DB954;
-      border-radius: 25px;
+      border-radius: 30px;
       color: white;
       font-weight: bold;
+      font-size: 16px;
       text-decoration: none;
+      transition: background-color 0.3s ease;
   ">Listen on Spotify</a>
 
 </div>
