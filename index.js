@@ -41,15 +41,24 @@ async function getLastPlayed(accessToken) {
   return response.data.items[0];
 }
 
-async function updateReadme(content, imageUrl, songUrl) {
+async function updateReadme(songName, artistName, imageUrl, songUrl) {
   const readmePath = path.join(__dirname, "README.md");
   let readme = fs.readFileSync(readmePath, "utf-8");
 
   const regex = /<!-- SPOTIFY:START -->(.*?)<!-- SPOTIFY:END -->/s;
   const newSection = `<!-- SPOTIFY:START -->
-[![Now Playing](${imageUrl})](${songUrl})
+<div align="center">
 
-**${content}**
+<a href="${songUrl}" target="_blank">
+  <img src="${imageUrl}" width="300" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
+</a>
+
+<br>
+
+**${songName}**  
+_${artistName}_
+
+</div>
 <!-- SPOTIFY:END -->`;
 
   if (regex.test(readme)) {
@@ -86,26 +95,29 @@ function commitAndPush() {
     const accessToken = await getAccessToken();
     let current = await getCurrentlyPlaying(accessToken);
 
-    let songInfo = "";
+    let songName = "";
+    let artistName = "";
     let imageUrl = "";
     let songUrl = "";
 
     if (current && current.is_playing) {
       const song = current.item;
-      songInfo = `${song.name} - ${song.artists.map(a => a.name).join(", ")}`;
+      songName = song.name;
+      artistName = song.artists.map(a => a.name).join(", ");
       imageUrl = song.album.images[0].url;
       songUrl = song.external_urls.spotify;
     } else {
       console.log("Nothing is playing, fetching last played...");
       const recent = await getLastPlayed(accessToken);
       const song = recent.track;
-      songInfo = `${song.name} - ${song.artists.map(a => a.name).join(", ")}`;
+      songName = song.name;
+      artistName = song.artists.map(a => a.name).join(", ");
       imageUrl = song.album.images[0].url;
       songUrl = song.external_urls.spotify;
     }
 
-    console.log("🎧 Now Playing:", songInfo);
-    await updateReadme(songInfo, imageUrl, songUrl);
+    console.log("🎧 Now Playing:", `${songName} - ${artistName}`);
+    await updateReadme(songName, artistName, imageUrl, songUrl);
     commitAndPush();
   } catch (err) {
     console.error(err);
