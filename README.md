@@ -52,7 +52,7 @@
 
 ## 🎧 Spotify Now Playing
 
-🎧 Now Playing: Nothing playing
+🎧 Now Playing: Flowlarım Çok Zengin - Contra, İtaat
 
 ## 📊 GitHub Metrics
 
