@@ -41,7 +41,12 @@ async function getLastPlayed(accessToken) {
   return response.data.items[0];
 }
 
-<!-- SPOTIFY:START -->
+async function updateReadme(songName, artistName, imageUrl, songUrl) {
+  const readmePath = path.join(__dirname, "README.md");
+  let readme = fs.readFileSync(readmePath, "utf-8");
+
+  const regex = /<!-- SPOTIFY:START -->(.*?)<!-- SPOTIFY:END -->/s;
+  const newSection = `<!-- SPOTIFY:START -->
 <div align="center" style="
   background-color: #181818;
   border: 2px solid #1DB954;
@@ -53,12 +58,12 @@ async function getLastPlayed(accessToken) {
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273da5b02845751fc4c73b10bfc" width="300" style="border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
+  <img src="${imageUrl}" width="300" style="border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
 
-  <div style="font-size: 20px; font-weight: bold; margin-bottom: 8px;">Song Name</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 15px;">Artist Name</div>
+  <div style="font-size: 20px; font-weight: bold; margin-bottom: 8px;">${songName}</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 15px;">${artistName}</div>
 
-  <a href="https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6" target="_blank" style="
+  <a href="${songUrl}" target="_blank" style="
       display: inline-block;
       padding: 10px 25px;
       background-color: #1DB954;
@@ -69,8 +74,17 @@ async function getLastPlayed(accessToken) {
   ">Listen on Spotify</a>
 
 </div>
-<!-- SPOTIFY:END -->
+<!-- SPOTIFY:END -->`;
 
+  if (regex.test(readme)) {
+    readme = readme.replace(regex, newSection);
+  } else {
+    readme += `\n${newSection}`;
+  }
+
+  fs.writeFileSync(readmePath, readme, "utf-8");
+  console.log("README.md updated!");
+}
 
 function commitAndPush() {
   try {
