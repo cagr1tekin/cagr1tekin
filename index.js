@@ -47,16 +47,20 @@ async function updateReadme(songName, artistName, imageUrl, songUrl) {
 
   const regex = /<!-- SPOTIFY:START -->(.*?)<!-- SPOTIFY:END -->/s;
   const newSection = `<!-- SPOTIFY:START -->
-<div align="center">
+<div align="center" style="border:2px solid #1DB954;padding:15px;border-radius:15px;width:350px;background-color:#121212;">
 
 <a href="${songUrl}" target="_blank">
-  <img src="${imageUrl}" width="300" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
+  <img src="${imageUrl}" width="300" style="border-radius:10px;box-shadow:0px 4px 15px rgba(0,0,0,0.3);"/>
 </a>
 
-<br>
+<br><br>
 
-**${songName}**  
-_${artistName}_
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="100"/>
+
+<br><br>
+
+<strong style="font-size: 18px; color: #ffffff;">${songName}</strong><br>
+<em style="font-size: 16px; color: #b3b3b3;">${artistName}</em>
 
 </div>
 <!-- SPOTIFY:END -->`;
@@ -70,6 +74,7 @@ _${artistName}_
   fs.writeFileSync(readmePath, readme, "utf-8");
   console.log("README.md updated!");
 }
+
 
 function commitAndPush() {
   try {
