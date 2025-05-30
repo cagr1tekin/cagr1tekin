@@ -53,7 +53,9 @@
 ## 🎧 Spotify Now Playing
 
 <!-- SPOTIFY:START -->
-Henüz veri yüklenmedi.
+[![Now Playing](https://i.scdn.co/image/ab67616d0000b2731b84c4694d4e1688274a77e9)](https://open.spotify.com/track/3Og5QtLjZzFqLFsKnfZPzO)
+
+**Korkularım - Sura İskenderli**
 <!-- SPOTIFY:END -->
 
 ## 📊 GitHub Metrics
