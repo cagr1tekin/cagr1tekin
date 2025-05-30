@@ -52,18 +52,33 @@
 ## 🎧 Spotify Now Playing
 
 <!-- SPOTIFY:START -->
-<table align="center" width="420px" style="background:#181818; border:2px solid #1DB954; border-radius:15px; box-shadow: 0 8px 24px rgba(0,0,0,0.5); font-family:Arial,sans-serif;">
-  <tr><td align="center" style="padding-top:20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="50">
-  </td></tr>
-  <tr><td align="center" style="padding:20px;">
-    <a href="https://open.spotify.com/track/4TjX6QIQVSD3j2VAxlR2wa" target="_blank">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d5a587c7de8efc3ba32bede7" width="300" style="border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.5);"/>
-    </a>
-  </td></tr>
-  <tr><td align="center" style="color:#ffffff; font-weight:bold; font-size:20px; padding-top:10px;">Seni Kendime Sakladım</td></tr>
-  <tr><td align="center" style="color:#b3b3b3; font-size:16px; padding-bottom:20px;">Duman</td></tr>
-</table>
+<div align="center" style="
+  background-color: #181818;
+  border: 2px solid #1DB954;
+  border-radius: 15px;
+  padding: 20px;
+  width: 350px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+  color: white;
+  font-family: Arial, sans-serif;
+">
+
+  <img src="https://i.scdn.co/image/ab67616d0000b2731d0d71d22c8d179577756208" width="300" style="border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
+
+  <div style="font-size: 20px; font-weight: bold; margin-bottom: 8px;">Senden Daha Güzel</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 15px;">Duman</div>
+
+  <a href="https://open.spotify.com/track/2sLAykCWyB1VA5hXDjU59T" target="_blank" style="
+      display: inline-block;
+      padding: 10px 25px;
+      background-color: #1DB954;
+      border-radius: 25px;
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+  ">Listen on Spotify</a>
+
+</div>
 <!-- SPOTIFY:END -->
 
 ---
