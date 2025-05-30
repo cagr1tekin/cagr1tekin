@@ -96,7 +96,7 @@ function commitAndPush() {
     const changes = execSync("git status --porcelain").toString().trim();
     if (changes) {
       execSync("git commit -m 'Update Spotify Now Playing'");
-      execSync("git push origin HEAD:main --force");
+      execSync("git push origin main --force");
       console.log("Changes committed and pushed.");
     } else {
       console.log("No changes detected, skipping commit.");
