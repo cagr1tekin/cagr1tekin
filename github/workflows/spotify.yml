@@ -1,8 +1,8 @@
-name: Update Spotify Playing
+name: Spotify Now Playing Debug
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,15 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Use Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-
       - name: Install dependencies
         run: npm install axios dotenv
 
-      - name: Update README
+      - name: Debug Spotify Now Playing
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
@@ -27,44 +22,48 @@ jobs:
         run: |
           node <<EOF
           const axios = require("axios");
-          require('dotenv').config();
 
           async function getAccessToken() {
-            const resp = await axios.post('https://accounts.spotify.com/api/token',
-              new URLSearchParams({
-                grant_type: 'refresh_token',
-                refresh_token: process.env.SPOTIFY_REFRESH_TOKEN
-              }),
-              {
-                headers: {
-                  'Authorization': 'Basic ' + Buffer.from(process.env.SPOTIFY_CLIENT_ID + ':' + process.env.SPOTIFY_CLIENT_SECRET).toString('base64'),
-                  'Content-Type': 'application/x-www-form-urlencoded'
-                }
-              });
+            const params = new URLSearchParams();
+            params.append("grant_type", "refresh_token");
+            params.append("refresh_token", process.env.SPOTIFY_REFRESH_TOKEN);
+
+            const resp = await axios.post("https://accounts.spotify.com/api/token", params, {
+              headers: {
+                Authorization: "Basic " + Buffer.from(process.env.SPOTIFY_CLIENT_ID + ":" + process.env.SPOTIFY_CLIENT_SECRET).toString("base64"),
+                "Content-Type": "application/x-www-form-urlencoded",
+              },
+            });
+
+            console.log("✅ Access token alındı");
             return resp.data.access_token;
           }
 
           async function getCurrentlyPlaying(token) {
             try {
-              const resp = await axios.get('https://api.spotify.com/v1/me/player/currently-playing', {
-                headers: { 'Authorization': 'Bearer ' + token }
+              const resp = await axios.get("https://api.spotify.com/v1/me/player/currently-playing", {
+                headers: { Authorization: "Bearer " + token },
               });
 
-              if (resp.status === 204) return "Not playing";
+              console.log("🎧 Spotify Response:");
+              console.log(resp.data);
+
+              if (resp.status === 204 || !resp.data || !resp.data.is_playing) {
+                console.log("⚠ Spotify: Nothing playing");
+                return "Nothing playing";
+              }
 
               const song = resp.data.item;
-              return `${song.name} — ${song.artists.map(a => a.name).join(', ')}`;
+              return `${song.name} — ${song.artists.map(a => a.name).join(", ")}`;
             } catch (err) {
-              return "Nothing playing";
+              console.log("🚨 Spotify API Error:", err.response?.data || err.message);
+              return "API Error";
             }
           }
 
           (async () => {
             const token = await getAccessToken();
             const song = await getCurrentlyPlaying(token);
-            const fs = require('fs');
-            const readme = fs.readFileSync('README.md', 'utf8');
-            const updated = readme.replace(/🎧 Now Playing: .*/, `🎧 Now Playing: ${song}`);
-            fs.writeFileSync('README.md', updated);
+            console.log("🎯 Final Song Output:", song);
           })();
           EOF
