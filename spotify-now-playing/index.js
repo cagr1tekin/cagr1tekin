@@ -66,7 +66,7 @@ function commitAndPush() {
   try {
     execSync("git config user.name 'github-actions[bot]'");
     execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
-    execSync("git add README.md");
+    execSync("git add ../README.md");
 
     const changes = execSync("git status --porcelain").toString().trim();
     if (changes) {
@@ -80,6 +80,7 @@ function commitAndPush() {
     console.error("Commit & push error:", err);
   }
 }
+
 
 // Main
 (async () => {
