@@ -59,16 +59,16 @@ async function updateReadme(songName, artistName, imageUrl, songUrl) {
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="60" style="margin-bottom: 20px;" />
 
-  <a href="{SPOTIFY_URL}" target="_blank">
-    <img src="{ALBUM_COVER}" width="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); margin-bottom: 20px;" />
+  <a href="${songUrl}" target="_blank">
+    <img src="${imageUrl}" width="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); margin-bottom: 20px;" />
   </a>
 
   <div style="color: #ffffff; font-weight: bold; font-size: 20px; margin-bottom: 5px;">
-    {SONG_NAME}
+    ${songName}
   </div>
 
   <div style="color: #b3b3b3; font-size: 16px;">
-    {ARTISTS}
+    ${artistName}
   </div>
 
 </div>
@@ -84,6 +84,7 @@ async function updateReadme(songName, artistName, imageUrl, songUrl) {
   fs.writeFileSync(readmePath, readme, "utf-8");
   console.log("README.md updated!");
 }
+
 
 
 
