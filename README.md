@@ -56,7 +56,8 @@
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/cagr1tekin?template=classic&config.timezone=Europe%2FIstanbul)
+![Metrics](https://github-readme-stats.vercel.app/api?username=cagr1tekin&show_icons=true&theme=tokyonight)
+
 
 > *"Keep learning. Keep building. Keep growing."*
 
