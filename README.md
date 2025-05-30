@@ -57,12 +57,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="50">
   </td></tr>
   <tr><td align="center" style="padding:20px;">
-    <a href="https://open.spotify.com/track/6ZSbBeRWRFcRhA5rX4g6uc" target="_blank">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d51f7b9473ca19d88f36cb5a" width="300" style="border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.5);"/>
+    <a href="https://open.spotify.com/track/4TjX6QIQVSD3j2VAxlR2wa" target="_blank">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d5a587c7de8efc3ba32bede7" width="300" style="border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.5);"/>
     </a>
   </td></tr>
-  <tr><td align="center" style="color:#ffffff; font-weight:bold; font-size:20px; padding-top:10px;">Dam Üstüne Çul Serer (Nenni)</td></tr>
-  <tr><td align="center" style="color:#b3b3b3; font-size:16px; padding-bottom:20px;">BÖ</td></tr>
+  <tr><td align="center" style="color:#ffffff; font-weight:bold; font-size:20px; padding-top:10px;">Seni Kendime Sakladım</td></tr>
+  <tr><td align="center" style="color:#b3b3b3; font-size:16px; padding-bottom:20px;">Duman</td></tr>
 </table>
 <!-- SPOTIFY:END -->
 
