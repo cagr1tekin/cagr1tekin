@@ -96,10 +96,10 @@ In addition to my software development experience, I also have hands-on practice
 
   <img src="https://i.scdn.co/image/ab67616d0000b273700b665dd4c9cb7e939c8445" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Özgür Çağrı</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Kum Gibi</div>
   <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ahmet Kaya</div>
 
-  <a href="https://open.spotify.com/track/139KYkh36K2J9AEM8ujObZ" target="_blank" style="
+  <a href="https://open.spotify.com/track/1vmzfiQsd8PHgt8Kgp7TgR" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
