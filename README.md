@@ -94,12 +94,12 @@ In addition to my software development experience, I also have hands-on practice
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273d9c4bf3a8f4a4547d1c7772b" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736a33cf9211f8990f9a88264c" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Ben Olmayınca</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ebru Gündeş</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Gönlümün Efendisi (feat. Ebru Gündes)</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Murat Yeter, Ebru Gündeş</div>
 
-  <a href="https://open.spotify.com/track/2YxqRBkDaP3D8o38P1TaLp" target="_blank" style="
+  <a href="https://open.spotify.com/track/3hMJCs92gtUyYz0u27dRh3" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
