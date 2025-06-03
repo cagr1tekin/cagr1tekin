@@ -1,15 +1,25 @@
-# Çağrı Tekin
+# 👋 Hi, I'm Çağrı Tekin
 
-**Junior Full-Stack Developer | Computer Engineering Student @ Selçuk University**  
-📍 Konya, Türkiye | 📧 tekincagri16@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-tekin-b607762b1) | 🔗 [GitHub](https://github.com/cagr1tekin) | ✍ [Medium](https://medium.com/@tekincagri16)
+🎯 Junior Full-Stack Developer  
+🎓 Computer Engineering Student @ Selçuk University  
+📍 Konya, Türkiye
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I approach every project with a strong sense of responsibility and discipline, always focusing on delivering high-quality outcomes.  
-I am passionate about **modern full-stack web development** and **blockchain technologies**, and continuously invest in self-improvement.  
-In addition to my software development experience, I also have hands-on practice in **AI-powered object detection** including dataset preparation, model training, and deployment.
+I'm a full-stack developer who enjoys building modern web applications and constantly exploring new technologies.  
+Currently, I'm working with **React, Next.js, Node.js, and TypeScript**, and I'm highly interested in **blockchain technologies** and **AI-powered object detection**.  
+I love contributing to real-world projects, learning new tools, and turning ideas into functional products.
+
+---
+
+## 📬 Get in Touch
+
+📧 [tekincagri16@gmail.com](mailto:tekincagri16@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-tekin-b607762b1)  
+🔗 [GitHub](https://github.com/cagr1tekin)  
+✍ [Medium](https://medium.com/@tekincagri16)
 
 ---
 
@@ -24,7 +34,6 @@ In addition to my software development experience, I also have hands-on practice
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS%20Modules-264de4?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Databases
 
@@ -35,8 +44,6 @@ In addition to my software development experience, I also have hands-on practice
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -49,34 +56,6 @@ In addition to my software development experience, I also have hands-on practice
 ![YOLO](https://img.shields.io/badge/YOLO-FF4088?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-3F8EFC?style=for-the-badge&logo=roboflow&logoColor=white)
-
-
-## 💼 Experience
-
-**Web Backend Developer @ Divizyon**  
-03/2025 – Present  
-- Backend development for the web admin panel of *SportLink* mobile app.
-- Built API structures, matching algorithms, user management, database modeling, and system architecture.
-- Technologies: Node.js, PostgreSQL, Supabase, Swagger UI, Zustand
-
-**Vice President @ SelçukChain Community**  
-10/2024 – Present  
-- Managed both technical and strategic aspects of the blockchain community.
-- Led development on frontend & backend, prepared technical documentation, mentored junior team members.
-- Actively involved in event organization, task delegation, and team coordination.
-
-**Freelance Web Developer**  
-02/2025 – 03/2025  
-- Developed a complete web application for a small business using React.js, Node.js, and MongoDB.
-- Focused on mobile compatibility, performance optimization, and clean UI/UX.
-
----
-
-## 🤝 Let's Connect
-
-📧 [tekincagri16@gmail.com](mailto:tekincagri16@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/cagri-tekin-b607762b1)  
-📝 [Medium](https://medium.com/@tekincagri16)
 
 ---
 
