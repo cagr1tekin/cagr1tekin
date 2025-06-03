@@ -94,12 +94,12 @@ In addition to my software development experience, I also have hands-on practice
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2737468cb6c9037bc6036031057" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d28234f00eb7e02763fd7f7f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Kördüğüm</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Tuğçe Kandemir, Özkan Meydan, Alican Özbuğutu</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Unutama Beni</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Esmeray</div>
 
-  <a href="https://open.spotify.com/track/1ooD577OZQfqFU4sWuuvwU" target="_blank" style="
+  <a href="https://open.spotify.com/track/1mRlWwAqXJb8OonNuS8UPV" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
