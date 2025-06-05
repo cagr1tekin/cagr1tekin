@@ -75,10 +75,10 @@ I love contributing to real-world projects, learning new tools, and turning idea
 
   <img src="https://i.scdn.co/image/ab67616d0000b2731fb3a1d3b989ec4e3962255f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Mikrop</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Yeşil Su</div>
   <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Serdar Ortaç</div>
 
-  <a href="https://open.spotify.com/track/374L13n9oElKIT2EDShNCX" target="_blank" style="
+  <a href="https://open.spotify.com/track/737KEAO1LVu5QPpNpRl509" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
