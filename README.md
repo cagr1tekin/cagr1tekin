@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273be5f34b8ccbce18aedb17b32" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27351d32dbfba9b92840281d8a7" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Seni Severdim - Remix</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Erdem Düzgün</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Bir İmkansız Var</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Emrah Karaduman, Merve Özbey</div>
 
-  <a href="https://open.spotify.com/track/62CrIwhfKHHuk2yWoH8CSS" target="_blank" style="
+  <a href="https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
