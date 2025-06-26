@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2732f19729007cb6443ee244e0e" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735677efeb78316364eafe02ff" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Аса хоса</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Окси Авдалян</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">SAĞDAN SOLA</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Organize, Jeff Redd</div>
 
-  <a href="https://open.spotify.com/track/5aYyh8cdnLtJkOyyiSO2Bt" target="_blank" style="
+  <a href="https://open.spotify.com/track/6LZxx8NT2Tj7UZO8eiW9ql" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
