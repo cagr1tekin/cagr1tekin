@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273bc1e682a9c9b6db932d307dd" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731f226fe5a930062b2e6fb8a6" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Benimle Kayboldun</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Kaan Boşnak</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Her Durumda</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ebru Gündeş</div>
 
-  <a href="https://open.spotify.com/track/6pJI8iZBKPuMjWDstvO081" target="_blank" style="
+  <a href="https://open.spotify.com/track/4g2PAEx3QaJL6laUxwj2kO" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
