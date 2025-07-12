@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273decb39445b0d6e16fb91e03b" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732de642b64eadaeff4697f156" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Aldattın Mı</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Dolu Kadehi Ters Tut</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Dinle Beni Bi'</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Yüzyüzeyken Konuşuruz</div>
 
-  <a href="https://open.spotify.com/track/7vEfL5rjwALu3A3AxYEvbQ" target="_blank" style="
+  <a href="https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
