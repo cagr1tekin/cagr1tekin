@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273d11233711eb9241f74e7f45a" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f22fca28b911a362dc8b732d" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">FaceTime</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ezhel</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">CRINGE</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Joker, Serhat Özen</div>
 
-  <a href="https://open.spotify.com/track/2iyzuhbwFW6P2JBtSGZKbT" target="_blank" style="
+  <a href="https://open.spotify.com/track/6E6dycuu4PWEjmYbHT9Li9" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
