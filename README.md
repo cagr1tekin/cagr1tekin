@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273d542ca9cbeda68a49f3226bf" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273108f28a5007ed2f281d03440" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Hoist The Colours (A Cappella)</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">The Wellermen, Eric Hollaway, Big Brev, Ebucs, Luke G. Taylor, Bobby Bass, Jesse Elkins, Davide Dalmonte</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Magic</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Helen Fiacon</div>
 
-  <a href="https://open.spotify.com/track/3M62q8wr1G3hee4d3DqZZa" target="_blank" style="
+  <a href="https://open.spotify.com/track/7swWtNsT58eH00lBgVwGvG" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
