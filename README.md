@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2738cff60f4f7347d871f78be2f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a78a414261a9c1d9a2b38f06" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Blue Velvet</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Alberto Baldan Bembo</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Halden Anlamaz</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Okan & Volkan</div>
 
-  <a href="https://open.spotify.com/track/4LAa9a5VMkk3mN8BHhB93c" target="_blank" style="
+  <a href="https://open.spotify.com/track/5EcpTIo0rUWuTShfOUJEqb" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
