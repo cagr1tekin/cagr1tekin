@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273e9ba41ef436c176539cf0430" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ad3426eff79ab60a182b8341" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">HMDL</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">ERAY067, Mansur, Avie, Organize, Batuflex, Chiko</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">GELDİĞİM YER</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">ERAY067, Mansur</div>
 
-  <a href="https://open.spotify.com/track/4gB1ND5arP2TEb7ZYAUrdL" target="_blank" style="
+  <a href="https://open.spotify.com/track/2Yrv0aUPh6NHFS8EbEHeL5" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
