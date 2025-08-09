@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27359e6e9c8b277e8c15ed66eb5" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e9ba41ef436c176539cf0430" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">BALMAIN</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Organize, ERAY067, Mansur</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">HMDL</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">ERAY067, Mansur, Avie, Organize, Batuflex, Chiko</div>
 
-  <a href="https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b" target="_blank" style="
+  <a href="https://open.spotify.com/track/4gB1ND5arP2TEb7ZYAUrdL" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
