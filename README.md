@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2733e32cf7038798fc81c83d616" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bf395078538581e5d7d1615e" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Karlos Yaren Yanarım</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">RaiderXD, dâvinaXD</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Напоследок</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Вектор А</div>
 
-  <a href="https://open.spotify.com/track/3PvVwX1lYQLEFLYnPsCJ3w" target="_blank" style="
+  <a href="https://open.spotify.com/track/0zatabQ1DipXenX95p9E6a" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
