@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273ed9f15d931e8384675e1c0e7" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736a3f398d91200dd25fa64fa0" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">İstedim</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Yağmurdan Sonra, Açık Seçik Aşk Bandosu</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Nude Night</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">The Chemical Brothers</div>
 
-  <a href="https://open.spotify.com/track/4BIddtS4yKecU73uFiygy3" target="_blank" style="
+  <a href="https://open.spotify.com/track/3ZDOJmN6ilauG73cPjhd1Y" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
