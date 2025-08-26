@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2737b04b1ab8a6254c7158ab13e" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732992c8ece39acfe61fe3aebb" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">That's Alright</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Jimmy Rogers</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">All Your Love (I Miss Loving)</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Otis Rush</div>
 
-  <a href="https://open.spotify.com/track/0z0MtGeVdGxUA7H7BO6LtW" target="_blank" style="
+  <a href="https://open.spotify.com/track/46UVOp5pnAasev0rak9ta7" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
