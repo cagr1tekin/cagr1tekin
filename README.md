@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2731ac240c667efa57dc3e5c642" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">The Way You Look Tonight - 2003 Remastered</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Paul Desmond, Gerry Mulligan</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Dream A Little Dream Of Me - Single Version</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ella Fitzgerald, Louis Armstrong</div>
 
-  <a href="https://open.spotify.com/track/7yYgBAj3yaMdTgq7fIvDlQ" target="_blank" style="
+  <a href="https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
