@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2734a928d937098ac900d8f9c85" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730d89a192bb6d491581754073" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Autumn Leaves</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Chet Baker</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Come Rain or Come Shine</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Sarah Vaughan</div>
 
-  <a href="https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe" target="_blank" style="
+  <a href="https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
