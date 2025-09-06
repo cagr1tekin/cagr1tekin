@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273d39016a5a111d5897f72f666" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d8ba9d37abe0e1e9713686c6" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Mahur</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ahmet Kaya</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">The Greatest Bend Over (Take It Easy)</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Full Blown, Yung Bredda</div>
 
-  <a href="https://open.spotify.com/track/0tCEEMJ6RTIKJExBFLqzLD" target="_blank" style="
+  <a href="https://open.spotify.com/track/5eCp47PfcZy61mDNdCZz1X" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
