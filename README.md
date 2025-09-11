@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273adbc3052a84071a32a6ebff7" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b9c02fbfa6c45d018496020b" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Balım</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Serdar Ortaç</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Güç Bende Artık - Emrah İş Remix</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Tuğba Yurt</div>
 
-  <a href="https://open.spotify.com/track/043PKBzrTOEO1Q2aXOrmmQ" target="_blank" style="
+  <a href="https://open.spotify.com/track/4o1wcLrn2tHbr1fwdM5Dat" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
