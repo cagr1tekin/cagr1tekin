@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2736ec24cd9406bdeee20a36a4f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bf0353b496e117582b4e2970" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Dansöz</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Serdar Ortaç</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">ILTIMAS X SUBMARINER</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">AKDO, Gülşen, Murat Boz, Lvbel C5</div>
 
-  <a href="https://open.spotify.com/track/0ry1DcOVebPl6QMQQnY3Dr" target="_blank" style="
+  <a href="https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
