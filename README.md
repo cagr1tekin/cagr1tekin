@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273119e47113f65a13d07c9054f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27333d0e1e4f3f449005546880f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Canavar</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Derya Uluğ</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Loco Lokomotif çuçu - Radio Remix</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Hakan Keles</div>
 
-  <a href="https://open.spotify.com/track/4ouym5KBjG94nSXTXJQLEn" target="_blank" style="
+  <a href="https://open.spotify.com/track/6nrWyatwEaKgr9posIEhj5" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
