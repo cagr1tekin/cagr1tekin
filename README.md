@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a242210740c712eb92f75091" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Safaera</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Bad Bunny, Jowell & Randy, Ñengo Flow</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Güzelliğine</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">EDIS, Emina</div>
 
-  <a href="https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y" target="_blank" style="
+  <a href="https://open.spotify.com/track/2EfVVbD8LEwHr817RGr3WZ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
