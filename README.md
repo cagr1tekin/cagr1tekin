@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf0353b496e117582b4e2970" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">ILTIMAS X SUBMARINER</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">AKDO, Gülşen, Murat Boz, Lvbel C5</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Wake Me Up</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Avicii</div>
 
-  <a href="https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M" target="_blank" style="
+  <a href="https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
