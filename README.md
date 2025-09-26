@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2736b42e100079c0b3132d3ed25" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27305a19ddc3f63f743bfe39622" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Bul Beni</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ezhel</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Çaresizim</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Funda</div>
 
-  <a href="https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz" target="_blank" style="
+  <a href="https://open.spotify.com/track/6GNoRytYHewXprnDo6cvQn" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
