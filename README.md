@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273a24166d2eb5dfb5ad3900735" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f338f22dedb1655409b73b42" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">TAK TAK TAK</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Lvbel C5, AKDO</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">MA CHÉRIE</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">UZI, Aksan</div>
 
-  <a href="https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX" target="_blank" style="
+  <a href="https://open.spotify.com/track/1dR9wy1C7PWn4HwEsgCRDv" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
