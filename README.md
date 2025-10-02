@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2734514c645cdaac39aba11f593" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ee44b8e3013a761b6d482f70" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Geceler</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Sagopa Kajmer, Mine Koşan</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Vasiyet</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Sagopa Kajmer</div>
 
-  <a href="https://open.spotify.com/track/4H2KhOR9QOHHv4ttjV5Lhz" target="_blank" style="
+  <a href="https://open.spotify.com/track/168ZvVQDJd8xigT35ODXcl" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
