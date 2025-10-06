@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273fd9079c2ad209a06a839b645" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d7921508ed16ce23b6e50c63" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Yarala Meni</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ka-Re</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Seninle Olmak Varya</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Bayhan</div>
 
-  <a href="https://open.spotify.com/track/6ypiohgRepu919KHlTveCI" target="_blank" style="
+  <a href="https://open.spotify.com/track/6VowV73FebhMiX6ggTUMNh" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
