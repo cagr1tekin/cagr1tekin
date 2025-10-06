@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273cc4d09b5cac0db23f7a9052e" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737a7de54356f9ccb876f79a57" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Kendiyle Konuşan Mutsuz Adam</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Sagopa Kajmer</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Love's Got The Best Of Us</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Lamont Landers</div>
 
-  <a href="https://open.spotify.com/track/24OUyZIqiBF8f4D6iv5JpA" target="_blank" style="
+  <a href="https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
