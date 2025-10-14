@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273b2ced5543cce685a495d5d74" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738fa97799c52c2369777f523c" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Son Seslenişim</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Yüzyüzeyken Konuşuruz</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Uyku</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Son Feci Bisiklet</div>
 
-  <a href="https://open.spotify.com/track/1Xn2GNoMUPxjgxweGjypQ8" target="_blank" style="
+  <a href="https://open.spotify.com/track/11IvpUALm0Canz1N6JBGEJ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
