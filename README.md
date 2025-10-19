@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27346ca0b648bdaf6047dc50efd" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Shape Of My Heart</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Sting</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Careless Whisper - Remastered</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">George Michael</div>
 
-  <a href="https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH" target="_blank" style="
+  <a href="https://open.spotify.com/track/5ac3D4hNLW7NFhYFCThXgh" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
