@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273fc1273b3a464ca23dc0c37e8" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735288becd356bc1ed97fbb1eb" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Kul Feryadı - Wail of Empty Souls, 2025 Reimagined</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Bergen, ACEMI</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Suç Mahalli</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Kahraman Deniz</div>
 
-  <a href="https://open.spotify.com/track/3C8GE4owVawq0W1QcwZ4lo" target="_blank" style="
+  <a href="https://open.spotify.com/track/5O4hZ2sqGCfvesLshqvM0D" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
