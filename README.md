@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2734ae8ff731c49965bf2083405" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c6aebd89b2dcda3348649633" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Love Story</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Indila</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Because You Loved Me (Theme from "Up Close and Personal")</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Céline Dion</div>
 
-  <a href="https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7" target="_blank" style="
+  <a href="https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
