@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273ccbcabdad71c5f7eda5cb354" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">May It Be</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Enya</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Every Breath You Take</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">The Police</div>
 
-  <a href="https://open.spotify.com/track/1wIQ2Nm0raqOapHK4bCD3J" target="_blank" style="
+  <a href="https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
