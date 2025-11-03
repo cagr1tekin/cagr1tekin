@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2739012ef2f742cea9e9267632d" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734c056b1e456d2f87d6d2a864" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Beiny We Beinak - Live</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Hoda Haddad, Fairuz</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Viking Music (Blood Revenge)</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Pawl D Beats</div>
 
-  <a href="https://open.spotify.com/track/3XyvgKHmrWHV9wxQwbwGSJ" target="_blank" style="
+  <a href="https://open.spotify.com/track/0kT9dFj1qMT2RwSQK2DoML" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
