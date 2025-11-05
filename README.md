@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b90a46bf3ece5ea50776b612" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Saalouny El Nas</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Kifak Inta</div>
   <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Fairuz</div>
 
-  <a href="https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C" target="_blank" style="
+  <a href="https://open.spotify.com/track/4FN4D7vWOV9uigDDw8nr0A" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
