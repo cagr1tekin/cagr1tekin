@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2735a8f1852b67b4fbc8c841fd6" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738e675f63b19c17334f7d62d9" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Heyecan</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Bengü</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">COOOK PARDON</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Lvbel C5, AKDO</div>
 
-  <a href="https://open.spotify.com/track/2LEUg79z2QXlS171Hnsgm5" target="_blank" style="
+  <a href="https://open.spotify.com/track/0P45YtqtAT6AkNDDX1lySE" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
