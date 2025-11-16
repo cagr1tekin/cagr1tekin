@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27375f7a9d8ce3987ab1560e848" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f643d0a5c879ab6f0616e4bf" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Tanrıdan Diledim</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Akif Çekirge</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Fikrimden Geceler Yatabilmirem</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">İnci Çayırlı</div>
 
-  <a href="https://open.spotify.com/track/7LFaVj87ClFu8YtAvJKLx5" target="_blank" style="
+  <a href="https://open.spotify.com/track/4B6Ylm1HEhauiVWApmRLaz" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
