@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27399020b5836c426ab8093cc76" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ea483c6cc4dc4a5f97e04f3d" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Y</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Poizi</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Günaydın - Remastered</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Yalın</div>
 
-  <a href="https://open.spotify.com/track/4H8ns1mp3witrdJGLrJXR6" target="_blank" style="
+  <a href="https://open.spotify.com/track/0pqAT0vxp4HEpYtyKa3ke9" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
