@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2737b707d1d445a215e995de838" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738e5714712b93ad67b58fbac1" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Unut</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ebru Gündeş</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">H - CHORBA</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Motive, Jefe</div>
 
-  <a href="https://open.spotify.com/track/6Yd3YILP2bZvIdYbmKbTVw" target="_blank" style="
+  <a href="https://open.spotify.com/track/34DHJUreZIZckzkPffXtEr" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
