@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273a6ffbe934c51e91c3a5ab571" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d90bcbd6e604966465d6aa36" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Cure (VIVINOS - ALNST Original Soundtrack Part.7)</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">AKUGETSU, PARK BYEONG HOON</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Helva Selva</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Timboletti</div>
 
-  <a href="https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF" target="_blank" style="
+  <a href="https://open.spotify.com/track/3M1cIeRXeHl0mHI7Vb6uYI" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
