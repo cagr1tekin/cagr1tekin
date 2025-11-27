@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2733ce84b2c05a3bac3d48c8217" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Ocean Drive</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Duke Dumont</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Lady - Hear Me Tonight</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Modjo</div>
 
-  <a href="https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn" target="_blank" style="
+  <a href="https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
