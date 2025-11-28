@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273d30fcf6340831edbafb45e38" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Seek & Destroy - Remastered</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Metallica</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">In the End</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Linkin Park</div>
 
-  <a href="https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU" target="_blank" style="
+  <a href="https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
