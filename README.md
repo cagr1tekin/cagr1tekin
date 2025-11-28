@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2738ffe0967a3b236d34428b19a" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739f2023d391c3bd4acf4d51c6" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Aşkın Olayım</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Simge</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Still Loving You</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Scorpions</div>
 
-  <a href="https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9" target="_blank" style="
+  <a href="https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
