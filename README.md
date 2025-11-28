@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273108d3b26e2c2fd86c6c1b7ec" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Nothing Else Matters - Remastered 2021</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Metallica</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Shotgun Blues</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Volbeat</div>
 
-  <a href="https://open.spotify.com/track/6QAsrXPnMSXIbV0yEJHlEX" target="_blank" style="
+  <a href="https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
