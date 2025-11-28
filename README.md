@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273985af358f1143c69e4d56701" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273307d9c005872ca234cea3340" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Lovefool</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">twocolors</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">One More Time (feat. Alida)</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Robin Schulz, Felix Jaehn, Alida</div>
 
-  <a href="https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4" target="_blank" style="
+  <a href="https://open.spotify.com/track/2REu6wX4KKrG6uGlTKVqu6" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
