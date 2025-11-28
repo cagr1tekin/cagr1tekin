@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab6742d3000053b746db3bf73d442ebc4547cd41" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a81b13a539eec67b0c145f8d" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">İSTANBUL BİLE</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Buray, Sena Şahin</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">16-24</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Wegh</div>
 
-  <a href="https://open.spotify.com/track/2FQRqOdXw9AbiidiCj7mbv" target="_blank" style="
+  <a href="https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
