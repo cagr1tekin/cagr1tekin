@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273307d9c005872ca234cea3340" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737387bfdc96c76bcd694b62ff" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">One More Time (feat. Alida)</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Robin Schulz, Felix Jaehn, Alida</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Bu Aşk Fazla Sana</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Şebnem Ferah</div>
 
-  <a href="https://open.spotify.com/track/2REu6wX4KKrG6uGlTKVqu6" target="_blank" style="
+  <a href="https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
