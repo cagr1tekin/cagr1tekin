@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2737056144bd5b58ec971c745a8" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27350c5b699d4f59fa0107eac6e" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Hasret Rüzgarları</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ebru Gündeş</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Gönlümün Efendisi (feat. Ebru Gündes)</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Murat Yeter, Ebru Gündeş</div>
 
-  <a href="https://open.spotify.com/track/5aEa99Bf0bc1FL7BHdKyns" target="_blank" style="
+  <a href="https://open.spotify.com/track/3hMJCs92gtUyYz0u27dRh3" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
