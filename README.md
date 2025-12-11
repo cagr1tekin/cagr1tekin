@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2732b9731bea7a6ea150f03e2de" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732913f7675c43ac4fa8da29b4" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Gülmek Için Yaratılmış - Emre Gören Remix</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ferdi Özbeğen, Emre Gören</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Al 1'de Burdan Yak</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Sagopa Kajmer</div>
 
-  <a href="https://open.spotify.com/track/6ajxQw4IYM2voU8Rz2nHxg" target="_blank" style="
+  <a href="https://open.spotify.com/track/5PnJYypzKw7nNN1QBPSEnR" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
