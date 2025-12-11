@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2738bfb4c8021aea66767faa167" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732a07bf1912730d354453a4ca" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">TİKTOK 2.0</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Furkan SalvatoreXD, 373 Inc.</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Neyim Var Ki (feat. Sagopa K)</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ceza</div>
 
-  <a href="https://open.spotify.com/track/4DI0KxmzTlbZz17EFDFuts" target="_blank" style="
+  <a href="https://open.spotify.com/track/09XOVDSIbBxBf6Kr1vGnHf" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
