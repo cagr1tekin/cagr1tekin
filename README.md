@@ -75,10 +75,10 @@ I love contributing to real-world projects, learning new tools, and turning idea
 
   <img src="https://i.scdn.co/image/ab67616d0000b273bedfccd100b4ae07bf14fa84" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Sensin O</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ezhel</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Bridges</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ezhel, Aitch</div>
 
-  <a href="https://open.spotify.com/track/0dn42Jw2hO3gEhw0Ss1SBx" target="_blank" style="
+  <a href="https://open.spotify.com/track/5wRy1yexmQ9H9OaxDSotMP" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
