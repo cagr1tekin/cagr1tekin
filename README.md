@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2730b82bbdfde15d431b6140034" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f0a8f2ab4b523cb7a92dc3ff" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Beni Hatırla</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Nazan Öncel</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Delincuente</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Tokischa, Anuel AA, Ñengo Flow</div>
 
-  <a href="https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE" target="_blank" style="
+  <a href="https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
