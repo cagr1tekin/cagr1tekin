@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273b833854d40ebe063366eb549" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c9af3d78758eaf8d896fd37c" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Mermer X Yanayım</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">eneswitzzz, Tory Schistad, heyiury, deityy</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">ANDO</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Jere Klein, Gittobeatz</div>
 
-  <a href="https://open.spotify.com/track/1SuO3jRTJ2DtiRA6tKed6R" target="_blank" style="
+  <a href="https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
