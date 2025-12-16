@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273c9526c38fc7e4f9e309a7e18" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739710731c9d7baec635f1bab1" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">#PHONKFREESTYLE</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">DEHA INC., Şehinşah, Reckol, 13 Killoki</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Nuthin' But A "G" Thang</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Dr. Dre, Snoop Dogg</div>
 
-  <a href="https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP" target="_blank" style="
+  <a href="https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
