@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27360a0a42aa8cf946c88f54dec" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27344712f797fa0c7473f906fa9" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Söz</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Murda, Ezhel</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Kafanda Kur</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Tutsak, Ezhel</div>
 
-  <a href="https://open.spotify.com/track/68pLyh8m195eHQV3VSsdOg" target="_blank" style="
+  <a href="https://open.spotify.com/track/0rRDDh5NBwDVrf3F5NVDjj" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
