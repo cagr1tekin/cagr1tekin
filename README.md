@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27356c0175aef24227b33f0b384" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27393e940f6e92bfb230fb6201d" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Pamuk Eller Cebe</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ezhel</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Bana Sor</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ferdi Tayfur</div>
 
-  <a href="https://open.spotify.com/track/7A0RnfwaaRxOHs5G4GCUGB" target="_blank" style="
+  <a href="https://open.spotify.com/track/2sDec6qV2Nwn3JezZ1YVJF" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
