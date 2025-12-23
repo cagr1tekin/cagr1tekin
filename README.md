@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273457c10ba077a65bb5fff437e" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273301cdd22ab15499a027e9a77" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Albert's Shuffle</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Mike Bloomfield, Al Kooper</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Texas Flood</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Larry Davis</div>
 
-  <a href="https://open.spotify.com/track/2hfjGsWCj47bdpE6oJuUL7" target="_blank" style="
+  <a href="https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
