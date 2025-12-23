@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27343d3dfc47879c663d5864e7c" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cc8591492be4509025f80089" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">T-Bone Shuffle</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Albert Collins</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Blues Boys Tune</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">B.B. King</div>
 
-  <a href="https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM" target="_blank" style="
+  <a href="https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
