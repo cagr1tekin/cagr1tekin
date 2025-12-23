@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27301536eae7ab4b8668936a510" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735198f61d9829c8ea52bace45" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">You're Sweet</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Jimmy Rogers</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Bright Lights, Big City</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Jimmy Reed</div>
 
-  <a href="https://open.spotify.com/track/1yvTGo5neAri7tdlc0zhOf" target="_blank" style="
+  <a href="https://open.spotify.com/track/4TE1mJzeu3os3j4YcCfkMI" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
