@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27325c6e88224b6f36a6e5bc215" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b1ae21861d1302c0896e81a8" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">If Trouble Was Money</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Albert Collins</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Goin' Down Slow</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Champion Jack Dupree</div>
 
-  <a href="https://open.spotify.com/track/0MhKdnlKlOewhd4VWjS27K" target="_blank" style="
+  <a href="https://open.spotify.com/track/5srIpIuhGKnPuiDcoaz1tw" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
