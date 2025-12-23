@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273dac4fc8f79d08515f048ddc7" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d77a5abbcaa6dd5db0289dd8" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Chains And Things</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">B.B. King</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Blue Guitar</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Earl Hooker</div>
 
-  <a href="https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW" target="_blank" style="
+  <a href="https://open.spotify.com/track/302TFw9xPEEwflzVvAA4w6" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
