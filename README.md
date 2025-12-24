@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273c2960959f1efc386a0eba25d" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273eb4534ca1227f529d3895fd1" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Herkes Gibisin</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Semicenk</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Uzaktan</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Göksel</div>
 
-  <a href="https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj" target="_blank" style="
+  <a href="https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
