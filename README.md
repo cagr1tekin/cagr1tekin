@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2733efb95a80c54cd8740468499" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739cc542de694199c76c420f14" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Entarisi Ala Benziyor</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Muammer Sun, İbrahim Yazıcı, Kültür ve Turizm Bakanlığı Devlet Çoksesli Korosu, Şule Köken, Tuncay Kurdoğlu</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Elbet Bir Gün Buluşacağız</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Limak Filarmoni Orkestrası, Murat Karahan, Rengim Gökmen</div>
 
-  <a href="https://open.spotify.com/track/4DedbHS7vT1b3Is2fDkVPK" target="_blank" style="
+  <a href="https://open.spotify.com/track/1fxUOPbVnRqA8wy2BxP0M3" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
