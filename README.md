@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2733ab34416d968443684cf918c" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a513a7f3e7b335e857f487a1" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Ain't No Man Alive Can Handle Me</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Dumpster Grooves, Bertha Mae Lightning</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Bad Guy</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Caplin & Massiah</div>
 
-  <a href="https://open.spotify.com/track/3Zx7E8lWBhO6KilZuhxtaP" target="_blank" style="
+  <a href="https://open.spotify.com/track/1ejXaZCtzw4wzU5cP7drBd" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
