@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27388239a3e25b80f3544f3e4dc" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730071d93ac1b1e0770e2644f8" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Mesytara</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Lamis Kan</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Chulo pt.2</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Bad Gyal, Tokischa, Young Miko</div>
 
-  <a href="https://open.spotify.com/track/7H2uwSkd2mhRKyTOPRDE2L" target="_blank" style="
+  <a href="https://open.spotify.com/track/1NCF4UUsuT6Xzw2Zxd43PJ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
