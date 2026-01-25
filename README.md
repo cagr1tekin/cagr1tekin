@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273603331ab05f00ba42037e5ba" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737a7bb3f6985052cd97c15279" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Aklımda Biri Var</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Belki Biraz</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">GIRL LIKE ME</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Black Eyed Peas, Shakira</div>
 
-  <a href="https://open.spotify.com/track/1OdYZImG4yuvZDsyIBsa0p" target="_blank" style="
+  <a href="https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
