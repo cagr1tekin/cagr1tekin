@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273b8fe85dbe11bc91cdd9d0b18" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7c38b3ab8834657bbd97ef1" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Değmezmiş Sana</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Güllü</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Там таз стелит</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Джанки Джин, Мастер Дрон</div>
 
-  <a href="https://open.spotify.com/track/67i1KQRvC0e9n46B72lJYo" target="_blank" style="
+  <a href="https://open.spotify.com/track/73uouP5VnxMJtGczsud7Jz" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
