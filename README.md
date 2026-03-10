@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2736f69ad5f2345a41f12e0298d" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732395eb87b1270a0d613361d1" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">İkimiz Bir Fidanız - Barış K Edit</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Kamuran Akkor, Barış K</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Selvi Boylum Al Yazmalım</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Cahit Berkay</div>
 
-  <a href="https://open.spotify.com/track/1V7gh6VdIZcPWyjUZAhrOO" target="_blank" style="
+  <a href="https://open.spotify.com/track/36vVvg9EoyxuLTOOAoMBpY" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
