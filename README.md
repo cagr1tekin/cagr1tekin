@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273f8157b19ef6a0b3f5da0691f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731ba74b346d99d0c8d160beaf" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">R&J</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">DEHA INC., SWIRF</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Mekanın Sahibi</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Norm Ender</div>
 
-  <a href="https://open.spotify.com/track/20zqmQ8vsWM0Fraotr2lAI" target="_blank" style="
+  <a href="https://open.spotify.com/track/3loy88Lp5qoTHhL8GhRfVZ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
