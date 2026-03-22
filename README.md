@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273edf05d743b5e3cda31c1f18c" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273863eb0c73c827be3ad4ee0a4" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">ROSITA</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Tainy, Rauw Alejandro, JHAYCO</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Özlem</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Erkut Taçkın</div>
 
-  <a href="https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW" target="_blank" style="
+  <a href="https://open.spotify.com/track/7cqClI02C3Fccd6Adl8rFl" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
