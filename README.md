@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27326d18a5ac713d07e5ac3bb63" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab6742d3000053b7e1d0ecdee44356924138ab98" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">LA VILLA</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ryan Castro, Kapo, Gangsta</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">PUES QUE LE HAGO ?</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Chuyin</div>
 
-  <a href="https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ" target="_blank" style="
+  <a href="https://open.spotify.com/track/5ftSi5H3THOvr9OpOwihpe" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
