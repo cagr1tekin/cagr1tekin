@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab6742d3000053b7bfd9f33ce9ffdeef60537bdf" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">TRANKAITO</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Feid</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">DtMF</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Bad Bunny</div>
 
-  <a href="https://open.spotify.com/track/5nWD5IiMiqJRawkaJvGc4q" target="_blank" style="
+  <a href="https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
