@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27350ee58db9f937d75b3979a4b" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f8d9bdb33b7a4d6098a77446" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Bedenimi Al</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Ankara Echoes</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Grand Theft Auto: San Andreas (Official Theme Song)</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Michael Hunter</div>
 
-  <a href="https://open.spotify.com/track/6hZqtCfIzbZw2xeF0yfdRX" target="_blank" style="
+  <a href="https://open.spotify.com/track/724X0Tdkai2En19Vi1HGUH" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
