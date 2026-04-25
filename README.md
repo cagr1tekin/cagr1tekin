@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273d2965262dfa65863690d86a4" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cbad8a21da94fae3ebe96580" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">1453 Freestyle</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Mass</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Kendimden Kaçtığımda</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Pit10</div>
 
-  <a href="https://open.spotify.com/track/2xel8YleE4IMiuYmPuNt4U" target="_blank" style="
+  <a href="https://open.spotify.com/track/53A9ajY46DU57H3AzSKeAJ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
