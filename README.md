@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2735336f1a2b256f768d9fcef78" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734e0297df5504645f2383133c" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Dilimde Şarkıların Gündüz Gece</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Fenerbahçe FanChants, Sarı Kanaryalar Taraftar Futbol Tezahüratları, Fenerbahçe S.K. Futbol Marşları</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Yediverenim</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Funda Arar</div>
 
-  <a href="https://open.spotify.com/track/6WBQpacmZGEWXjambFV0jw" target="_blank" style="
+  <a href="https://open.spotify.com/track/4oNFpReTeO8DlVcdJINHsX" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
