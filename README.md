@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2733b4c1d0631dd8dde5cafeb5f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733cce919fb4e38bc4f8ed7fe0" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">sanma ki yaşıyorum</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">AKDO, ASLAR, Lessio, Astral</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Heveslenmem</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Lil Zey</div>
 
-  <a href="https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs" target="_blank" style="
+  <a href="https://open.spotify.com/track/5oPmGwbsKYlUtwUmOhlX2F" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
