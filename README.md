@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273e8bca5d4658b25c4ea0825e9" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f28269ed4bbcd8ebc756d198" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Yüzük</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Oğuzhan Koç</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Şarkılar Sokaklara Ait</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">UZI, Motive</div>
 
-  <a href="https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY" target="_blank" style="
+  <a href="https://open.spotify.com/track/09nTES713tbfeOh5BQWF61" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
