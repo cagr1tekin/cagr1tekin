@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273dc265a7dcb181e4e4296d0db" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734e7c80fce37291994c3eac79" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Başrol Sensin - 1. Yıl Özel</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">manifest</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Yaramızda Kalsın</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Merve Özbey</div>
 
-  <a href="https://open.spotify.com/track/7JOZ88jJbmx9TIzpPJBCqi" target="_blank" style="
+  <a href="https://open.spotify.com/track/2ylSxczIH1pxiB1widNq7c" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
