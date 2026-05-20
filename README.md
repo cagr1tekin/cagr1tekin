@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2735e315b844d959ecfc2512a68" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ccb96d4a469a73aff0706316" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Vursunlar - Roman Version</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Tekir, Gökhan Namlı</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Amatör</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">manifest</div>
 
-  <a href="https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N" target="_blank" style="
+  <a href="https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
