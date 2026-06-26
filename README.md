@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273df5b131c2dc3e3a4f3f8e825" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27329728fe23025da14d5695ddb" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">İki Tas Çorba - Mustafa Sandal Saygı 1</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Mela Bedel, Mustafa Sandal</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Sakin Ol Champ</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">BLOK3</div>
 
-  <a href="https://open.spotify.com/track/0icmYnuVBefqsouoU3uRMl" target="_blank" style="
+  <a href="https://open.spotify.com/track/3USULTYXtx9vdFAgG6KfnY" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
