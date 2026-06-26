@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b27368bf830b9d954889967c81b2" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273be1b34819d010b15ea80f518" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Hileli</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">manifest, Ajda Pekkan</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Yaşanacaksa</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">manifest</div>
 
-  <a href="https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8" target="_blank" style="
+  <a href="https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
