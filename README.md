@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273426073d0619384410f083aa1" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273670753d0c615db5bb7f161fb" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Şu Benim Divane Gönlüm</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Anatolian Rock Echoes</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Burda Geceler</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Tuğrul Bektaş, Kaisa Natron, Cash Flow, Ortaq</div>
 
-  <a href="https://open.spotify.com/track/6CEnOHQPLssdY2lns5oLM3" target="_blank" style="
+  <a href="https://open.spotify.com/track/3D0s0yGRjT72jIk94NRUcQ" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
