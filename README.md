@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273a0b178cda2704df334d82900" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27329728fe23025da14d5695ddb" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Hadi Oyna Bana</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Kerimcan Durmaz</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">KUSURA BAKMA</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">BLOK3</div>
 
-  <a href="https://open.spotify.com/track/2iK4pcPyekaoUq5eyTBB7L" target="_blank" style="
+  <a href="https://open.spotify.com/track/1uxByMuB5lMP8iwMhkzwFu" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
