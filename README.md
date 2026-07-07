@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2737646443490fdff4eb8a22ecc" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27398d8c3fc7e8f0e84f79a7331" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">ÇIKAR BİRİ KARŞIMA</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Poizi, Era7capone, SNOW</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">Aradan Çok Yıllar Geçti</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Tuğçe Kandemir</div>
 
-  <a href="https://open.spotify.com/track/1iOjOuccQP5gL52dQW8EqW" target="_blank" style="
+  <a href="https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
