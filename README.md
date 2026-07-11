@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b2735b6577f06caf07579c82a84a" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d55cc116abf2fe8ab2e0d227" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">hola hola</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">ASLAR, Lessio, Astral</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">YIN YANG</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Motive</div>
 
-  <a href="https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL" target="_blank" style="
+  <a href="https://open.spotify.com/track/1hvPVRogJLyumymUkWivXx" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
