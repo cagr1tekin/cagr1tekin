@@ -73,12 +73,12 @@ I love contributing to real-world projects, learning new tools, and turning idea
   font-family: Arial, sans-serif;
 ">
 
-  <img src="https://i.scdn.co/image/ab67616d0000b273e40631914fd362621846d88f" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.scdn.co/image/ab67616d0000b27318fcb3505e8fc008becee269" width="320" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
 
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">BENI VUR</div>
-  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Jefe, Pango</div>
+  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">KARANLIK</div>
+  <div style="font-size: 16px; color: #B3B3B3; margin-bottom: 20px;">Yung Kafa & Kücük Efendi, Jumpa, Motive</div>
 
-  <a href="https://open.spotify.com/track/0JEi7rLZsqVBS9kbHXcN31" target="_blank" style="
+  <a href="https://open.spotify.com/track/515rshs02QH3ZcniJgdhu2" target="_blank" style="
       display: inline-block;
       padding: 12px 30px;
       background-color: #1DB954;
